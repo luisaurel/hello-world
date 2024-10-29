@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    background-color: #FFF5EE;
+}
+
+h1 {
+    color: #8B4513;
+}
+
+.container {
+    max-width: 600px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #FAF0E6;
+}
+
+h2 {
+    color: #D2691E;
+}
+
+ul, ol {
+    margin: 10px 0;
+    padding-left: 20px;
+}
